@@ -1,3 +1,4 @@
+sudo apt update && sudo apt -y full-upgrade
 git clone https://github.com/dura51/OSINT-wifi.git
 cd OSINT-wifi
 chmod +x firstspoof.sh
