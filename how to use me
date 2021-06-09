@@ -1,1 +1,6 @@
-git clone 
+git clone https://github.com/dura51/OSINT-wifi.git
+cd OSINT-wifi
+chmod +x firstspoof.sh
+chmod +x secondspoof.sh
+./firstspoof.sh
+./secondspoof.sh
